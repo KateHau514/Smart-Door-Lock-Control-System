@@ -1,7 +1,9 @@
 Group name: Hi5
 
 Project name: Smart Door Lock Control System
+
 Program used: STM32CUBEIDE
+
 Board used: STM32F401CCU6 with ST-link
 
 Components used:
